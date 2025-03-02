@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata: 
   name: nginx-configmap
 data:
-  course: "k8"
-  duration: "8hrs"
+  course: "DevOps with AWS"
+  duration: "120Hrs"
